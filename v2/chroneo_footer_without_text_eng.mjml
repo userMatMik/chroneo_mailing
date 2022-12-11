@@ -1,0 +1,196 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat" />
+        <mj-attributes>
+            <mj-text font-family="Montserrat, sans-serif" align="center" font-size="18px" line-height="24px" padding="0px"/>
+            <mj-image align="center" padding="0px" />
+            <mj-button background-color="#00AFE4" font-size="16px" color="#ffffff" font-family="Montserrat, sans-serif" border-radius="30px" height="20px" width="200px" />
+            <mj-section padding="0px" />    
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#ffffff">
+        <mj-section padding="20px" background-color="#000000">
+            <mj-column>
+               <mj-image width="130px" padding="20px" src="https://chroneo.pl/wp-content/uploads/2022/11/logo-white.png" alt="chroneo logo" href="https://chroneo.pl" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#000000">
+            <mj-column>
+                <mj-image width="600px" src="https://chroneo.pl/wp-content/uploads/2022/12/header_mailling_no_photo_2_eng.jpg" alt="chroneo photo" href="https://chroneo.pl" />
+            </mj-column>     
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="238px"height="320px" padding-top="10px" padding-bottom="10px"  src="https://chroneo.pl/wp-content/uploads/2022/12/omega_snoopy_mail.jpg" alt="Omega Speedmaster Snoopy" href="https://chroneo.pl/produkt/speedmaster-silver-snoopy-award-50th-anniversary/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Speedmaster 'Silver Snoopy Award’
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="244px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/omega_speedmaster_coaxial_mail.jpg" alt="Omega Speedmaster Moonwatch" href="https://chroneo.pl/produkt/omega-speedmaster-moonwatch-co-axial-master-chronometer/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Speedmaster Moonwatch Co-Axial Master Chronometer
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="257px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/rolex_deepsea_mail.jpg" alt="Rolex deepsea" href="https://chroneo.pl/produkt/rolex-sea-dweller-deepsea/" />
+               <mj-text>
+                    Rolex
+               </mj-text>
+                <mj-text>
+                    Sea-Dweller Deepsea
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="216px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/rolex_submariner_date_mail.jpg" alt="Rolex Submariner" href="https://chroneo.pl/produkt/rolex-submariner-date/" />
+               <mj-text>
+                    Rolex
+               </mj-text>
+                <mj-text>
+                    Submariner Date
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="226px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/omega-ultraman-mail.jpg" alt="Omega Speedmaster Ultrman" href="https://chroneo.pl/produkt/omega-speedy-tuesday-ultraman/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Speedy Tuesday Ultraman
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="274px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/panerai-submersible-1950-mail.jpg" alt="Panerai Luminor Submersible" href="https://chroneo.pl/produkt/panerai-luminor-submersible-1950/" />
+               <mj-text>
+                    Panerai
+               </mj-text>
+                <mj-text>
+                    Luminor Submersible
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="227px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/rolex_datejust_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/rolex-datejust-41-2/" />
+               <mj-text>
+                    Rolex
+               </mj-text>
+                <mj-text>
+                    Datejust 41
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="219px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/rolex_datejust_41_flutted_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/rolex-datejust-41/" />
+               <mj-text>
+                    Rolex
+               </mj-text>
+                <mj-text>
+                    Datejust 41
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="233px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/omega_seamaster_coaxial_300m_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/omega-seamaster-co%e2%80%91axial-master-chronometer-diver-300m/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Seamaster Coaxial Master Chronometer
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="234px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/omega_seamaster_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/omega-seamaster-diver/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Seamaster Diver 300m
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-top="10px "background-color="#F1F5FE">
+            <mj-column>
+               <mj-image width="227px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/omega_seamaster_aquaterra_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/omega-seamaster-aqua-terra-2/" />
+               <mj-text>
+                    Omega
+               </mj-text>
+                <mj-text>
+                    Seamaster Aqua Terra
+               </mj-text>
+            </mj-column>
+            <mj-column>
+               <mj-image width="218px" height="320px" padding-top="10px" padding-bottom="10px" src="https://chroneo.pl/wp-content/uploads/2022/12/ball_roadmaster_mail.jpg" alt="Rolex Datejust 41" href="https://chroneo.pl/produkt/bali-roadmaster-icebreaker/" />
+               <mj-text>
+                    Ball
+               </mj-text>
+                <mj-text>
+                    Roadmaster Icebreaker
+               </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="20px "background-color="#F1F5FE">
+            <mj-column>
+                <mj-button href="https://chroneo.pl">
+                    See All
+                 </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="10px "background-color="#FFFFFF" border-bottom="1px solid #F1F5FE">
+            <mj-column>
+                <mj-button height="16px" width="300px" background-color="#ffffff" color="#000000" font-size="18px" padding="0" href="https://chroneo.pl/kategoria-produktu/rolex/">
+                    Rolex Watches
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="10px "background-color="#FFFFFF" border-bottom="1px solid #F1F5FE">
+            <mj-column>
+                <mj-button height="16px" width="300px" background-color="#ffffff" color="#000000" font-size="18px" padding="0" href="https://chroneo.pl/kategoria-produktu/omega/">
+                    Omega Watches
+                </mj-button>
+            </mj-column>
+        </mj-section>
+         <mj-section padding="10px "background-color="#FFFFFF" border-bottom="1px solid #F1F5FE">
+            <mj-column>
+                <mj-button height="16px" width="300px" background-color="#ffffff" color="#000000" font-size="18px" padding="0" href="https://chroneo.pl">
+                    All Watches
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="10px" background-color="#00AFE4">
+            <mj-column>
+               <mj-image width="130px" src="https://chroneo.pl/wp-content/uploads/2022/11/logo_small.png" alt="chroneo logo" href="https://chroneo.pl" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#00AFE4">
+            <mj-column>
+                <mj-text color="#FFFFFF" font-size="16px" >
+                    Follow us on socials:
+                </mj-text>
+            </mj-column>   
+        </mj-section>
+        <mj-section background-color="#00AFE4" padding-bottom="20px">
+            <mj-column width="100%" padding="0">
+                <mj-social font-size="15px" icon-size="30px" mode="horizontal" padding="0" align="center">
+                    <mj-social-element name="facebook-noshare" href="https://www.facebook.com/chroneopl/" background-color="#00AFE4">
+                    </mj-social-element>
+                    <mj-social-element name="instagram" href="https://www.instagram.com/chroneo.pl/" background-color="#00AFE4">
+                    </mj-social-element>
+                    <mj-social-element name="youtube" href="https://www.youtube.com/channel/UC9cB-n4h29vW9KpmKgKDbsQ" background-color="#00AFE4">
+                    </mj-social-element>
+                    </mj-social-element>
+                </mj-social>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
