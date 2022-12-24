@@ -1,0 +1,54 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Playfair Display" href="https://fonts.googleapis.com/css2?family=Playfair+Display" />
+        <mj-font name="Lato href="href="https://fonts.googleapis.com/css2?family=Lato" />
+        <mj-attributes>
+            <mj-text font-family="Lato, sans-serif" align="center" font-size="15px" line-height="24px" padding="0px" color="#333333"/>
+            <mj-image padding="0px" />
+            <mj-class name="heading" color="#333333" font-size="30px" font-family="Playfair Display, serif" line-height="38px" align="center" />
+            <mj-section padding="0px" />    
+        </mj-attributes>
+    </mj-head>
+    <mj-body background-color="#ffffff">
+        <mj-section padding="0" background-color="#00AFE4">
+            <mj-column>
+               <mj-image width="600px" padding="0" src="https://chroneo.pl/wp-content/uploads/2022/12/top.png" alt="Christmas wishes from CHRONEO " />
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#00AFE4">
+            <mj-column>
+               <mj-image width="600px" padding="0" src="https://chroneo.pl/wp-content/uploads/2022/12/header600.png" alt="Christmas wishes from CHRONEO " href="https://chroneo.pl" />
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#00AFE4">
+            <mj-column>
+                <mj-image width="600px" src="https://chroneo.pl/wp-content/uploads/2022/12/merry600.png" alt="Christmas wishes from CHRONEO " href="https://chroneo.pl" />
+            </mj-column>     
+        </mj-section>
+        <mj-section padding="10px" background-color="#00AFE4">
+            <mj-column padding-top="30px">
+                <mj-text mj-class="heading">
+                   Merry Christmas
+                </mj-text>
+                <mj-text mj-class="heading">
+                    &amp; Happy New Year
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#00AFE4">
+            <mj-column>
+                <mj-text padding-top="30px" padding-right="40px" padding-bottom="10px" padding-left="40px">
+                    Wishing you and your family all the best during this joyful season. We hope your holidays are filled with love and plenty of joyful moments.
+                </mj-text>
+                <mj-text font-style="italic" padding-top="10px" padding-right="40px" padding-bottom="10px" padding-left="40px">
+                    The whole team of CHRONEO
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section padding="0" background-color="#00AFE4">
+            <mj-column>
+               <mj-image width="600px" padding="0" src="https://chroneo.pl/wp-content/uploads/2022/12/bottom600.png" />
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
